@@ -1,5 +1,5 @@
 name: 'Add issue/PR to Triage Board'
-on:
+# on:
   issues:
     types:
       - opened

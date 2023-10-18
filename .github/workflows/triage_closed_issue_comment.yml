@@ -1,5 +1,5 @@
 name: 'Handle Comment Workflow'
-on:
+# on:
   issue_comment:
     types:
       - created
